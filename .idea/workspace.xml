@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c1bb768-d5e9-4ab2-ae77-cdc20c36872a" name="Changes" comment="Тест IDEA 2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Slave2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2PsNX3QIgaxTSmx3UjrNVNS2ZxQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c1bb768-d5e9-4ab2-ae77-cdc20c36872a" name="Changes" comment="" />
+      <created>1684241865928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684241865928</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Тест IDEA">
+      <created>1684241988868</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684241988868</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Тест IDEA 1">
+      <created>1684245183155</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684245183155</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Тест IDEA 1">
+      <created>1684245231626</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684245231626</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Тест IDEA 1">
+      <created>1684245446184</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684245446184</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Тест IDEA 1">
+      <created>1684245517282</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684245517282</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Тест IDEA 1">
+      <created>1684245597559</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684245597559</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Тест IDEA 1">
+      <created>1684245623912</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684245623912</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Тест IDEA 1">
+      <created>1684247605435</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684247605435</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Тест IDEA 1">
+      <created>1684247633992</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684247633992</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Тест IDEA 1">
+      <created>1684247711348</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684247711348</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Тест IDEA 1">
+      <created>1684247742113</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684247742113</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Тест IDEA 2">
+      <created>1684248327109</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1684248327109</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Тест IDEA 2">
+      <created>1684317396156</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1684317396156</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Тест IDEA" />
+    <MESSAGE value="Тест IDEA 1" />
+    <MESSAGE value="Тест IDEA 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Тест IDEA 2" />
+  </component>
+</project>
